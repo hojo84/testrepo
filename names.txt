@@ -1,0 +1,8 @@
+bob
+jim
+Mary
+<<<<<<< HEAD:new.txt
+kismiska
+=======
+Jimmy Doe
+>>>>>>> dcb1c78f3303633e7247bc3d59e7d78e6e754513:names.txt
